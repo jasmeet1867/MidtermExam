@@ -11,7 +11,7 @@ import java.util.Scanner;
  * from user and execute the arithmetic operation
  * change the code to use enum instead String and mention the advantage of enum.
  * @author sivagamasrinivasan
- * date 07/05/21
+ * date 14/02/22
  */
 public class ArithmeticBase 
 {
