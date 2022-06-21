@@ -13,7 +13,7 @@ import static java.time.Clock.system;
  * arithmetic operations based on user input
  * execute the code check the output
  * @author sivagamasrinivasan
- * date 14/02/22
+ * 
  */
 public class Arithmetic 
 {
